@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hey, I'm Harry 👋
 
-<!--
-**Franntik/Franntik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I just screw around on here for fun.
 
-Here are some ideas to get you started:
+🌐 **website:** [harrystringer.com](https://harrystringer.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 What I'm working on
+
+- 📚 learning `Kotlin` at school 
+- 🛠️ tinkering with my [website](https://harrystringer.com)
+- 🔧 experimenting with minecraft java modding 
+- 🤖 making various small games with `Godot`
+
+---
+
+### 💬 Reach out
+
+For whatever reason, if you'd like to reach out you can email me.
+
+📫 **email:** [contact@harrystringer.com](mailto:contact@harrystringer.com)
